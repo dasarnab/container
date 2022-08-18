@@ -1,0 +1,10 @@
+/home/arnab/Documents/Assignment3/demo/rootfs
+myContainer2
+netns4
+veth-host2
+veth-container2
+10.1.2.1/24
+10.1.2.2/24
+1
+demo2
+50000000
